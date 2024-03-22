@@ -1,0 +1,23 @@
+{
+    "chain_name": "itx",
+    "coingecko": null,
+    "api": [
+        {"provider": "ITX", "address": "http://api.testnet.itxchain.com"}
+    ],
+    "rpc": [
+        {"provider": "ITX", "address": "http://tendermint-rpc.testnet.itxchain.com"}
+    ],
+    "snapshot_provider": "",
+    "sdk_version": "v0.47.6",
+    "coin_type": "5431",
+    "min_tx_fee": "0",
+    "addr_prefix": "itx",
+    "logo": "/logos/nolus.svg",
+    "assets": [{
+        "base": "aitx",
+        "symbol": "AITX",
+        "exponent": "6",
+        "coingecko_id": null,
+        "logo": "/logos/nolus.svg"
+    }]
+}
